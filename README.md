@@ -130,12 +130,12 @@ notebook is followed by a short written insight.
 ## 🖼️ Visuals
 
 <p>
-  <img src="outputs/[FILL IN filename].png" width="45%" alt="Budget vs Score">
-  <img src="outputs/[FILL IN filename].png" width="45%" alt="Budget vs Gross">
+  <img src="BudgetANDscore.png" width="45%" alt="Budget vs Score">
+  <img src="BudgetVSscore.png" width="45%" alt="Budget vs Gross">
 </p>
 <p>
-  <img src="outputs/[FILL IN filename].png" width="45%" alt="ROI by Genre">
-  <img src="outputs/[FILL IN filename].png" width="45%" alt="Budget and Score Over Time">
+  <img src="TopComp.png" width="45%" alt="Top Studios by films">
+  <img src="budgetVSrevenue.png" width="45%" alt="Budget and Score Over Time">
 </p>
 
 *(Swap in whatever filenames you saved in `outputs/` — e.g. `budget_vs_score.png`.)*
