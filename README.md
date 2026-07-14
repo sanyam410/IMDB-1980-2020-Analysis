@@ -138,8 +138,6 @@ notebook is followed by a short written insight.
   <img src="budgetVSrevenue.png" width="45%" alt="Budget and Score Over Time">
 </p>
 
-*(Swap in whatever filenames you saved in `outputs/` — e.g. `budget_vs_score.png`.)*
-
 ## 📋 Conclusion
 
 Budget buys an audience far more reliably than it buys a good movie. Studios can spend
